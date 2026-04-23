@@ -38,15 +38,6 @@ I love messing around with hardware, spatial computing, and robotics. If it invo
 ---
 
 <div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RoboX2020&theme=tokyonight" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RoboX2020&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoboX2020&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Langs" />
 </div>
@@ -54,24 +45,5 @@ I love messing around with hardware, spatial computing, and robotics. If it invo
 <br>
 
 <div align="center">
-  <h3>🎧 Now Playing</h3>
-  <a href="https://open.spotify.com/">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=30363D" alt="Spotify Now Playing" width="300" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RoboX2020/RoboX2020/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RoboX2020/RoboX2020/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RoboX2020/RoboX2020/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/RoboX2020/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=RoboX2020&color=blue" alt="Visitor Count" />
 </div>
