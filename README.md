@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Hi, I'm Prajval. <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyH/giphy.gif" width="35">
+  Hi, I'm Prajval. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35">
 </h1>
 
 <p align="center">
