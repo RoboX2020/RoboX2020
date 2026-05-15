@@ -1,0 +1,18 @@
+{
+  "board": [
+    "O",
+    "X",
+    " ",
+    " ",
+    "X",
+    " ",
+    " ",
+    "O",
+    " "
+  ],
+  "status": "active",
+  "wins": 0,
+  "losses": 0,
+  "draws": 0,
+  "message": "Bot played square 8. Your turn, @drarora!"
+}

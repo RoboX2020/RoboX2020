@@ -47,3 +47,46 @@ I love messing around with hardware, spatial computing, and robotics. If it invo
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RoboX2020&color=blue" alt="Visitor Count" />
 </div>
+
+<br>
+
+---
+
+<div align="center">
+
+<!-- GAME_START -->
+### 🎮 Play Tic-Tac-Toe with me!
+**Bot played square 8. Your turn, @drarora!**
+
+| Stats | Score |
+| --- | --- |
+| 🏆 Wins | 0 |
+| 💀 Losses | 0 |
+| 🤝 Draws | 0 |
+
+![Tic-Tac-Toe Board](board.svg)
+
+#### Make your move:
+<table>
+  <tr>
+    <td align="center" width="50" height="50">⬜</td>
+    <td align="center" width="50" height="50">⬜</td>
+    <td align="center" width="50" height="50"><a href="https://github.com/RoboX2020/RoboX2020/issues/new?template=move.md&title=move:+3"><b>3</b></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="50" height="50"><a href="https://github.com/RoboX2020/RoboX2020/issues/new?template=move.md&title=move:+4"><b>4</b></a></td>
+    <td align="center" width="50" height="50">⬜</td>
+    <td align="center" width="50" height="50"><a href="https://github.com/RoboX2020/RoboX2020/issues/new?template=move.md&title=move:+6"><b>6</b></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="50" height="50"><a href="https://github.com/RoboX2020/RoboX2020/issues/new?template=move.md&title=move:+7"><b>7</b></a></td>
+    <td align="center" width="50" height="50">⬜</td>
+    <td align="center" width="50" height="50"><a href="https://github.com/RoboX2020/RoboX2020/issues/new?template=move.md&title=move:+9"><b>9</b></a></td>
+  </tr>
+</table>
+
+---
+*How it works: When you click a number, it opens an issue. A GitHub Action runs a Python script that calculates the bot's move using Minimax, updates the SVG board, and commits the result back!*
+<!-- GAME_END -->
+
+</div>

@@ -1,0 +1,42 @@
+name: Tic-Tac-Toe Game
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  issues: write
+  contents: write
+
+jobs:
+  play:
+    if: startsWith(github.event.issue.title, 'move:')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run Game Engine
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
+        run: |
+          # Ensure python uses utf-8
+          export PYTHONIOENCODING=utf8
+          python game/engine.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md board.svg game/state.json
+          # Only commit if there are changes
+          git diff --staged --quiet || (git commit -m "🎮 Game update: ${ISSUE_TITLE} by @${ISSUE_AUTHOR}" && git push)
