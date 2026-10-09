@@ -43,8 +43,6 @@ More at [prajvalarora.com](https://www.prajvalarora.com).
 <img src="https://github-readme-stats.vercel.app/api?username=RoboX2020&show_icons=true&hide_border=true&bg_color=16181b&title_color=d4af37&text_color=f1e6c8&icon_color=d4af37" height="165" alt="GitHub stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoboX2020&layout=compact&hide_border=true&bg_color=16181b&title_color=d4af37&text_color=f1e6c8" height="165" alt="Top languages">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RoboX2020&bg_color=16181b&color=f1e6c8&line=d4af37&point=f1e6c8&area=true&area_color=d4af37&hide_border=true" width="100%" alt="Contribution graph">
-
 </div>
 
 <details>
