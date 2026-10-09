@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/1-pixels.svg" alt="Prajval Arora - robotics, autonomy, sim-to-real" width="100%">
+  <img src="assets/9-pixels.svg" alt="Prajval Arora - robotics, autonomy, sim-to-real" width="100%">
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="assets/7-robot.svg" width="100%" alt="pixel robot on patrol">
+<img src="assets/15-robot.svg" width="100%" alt="pixel robot on patrol">
 
 ## i create things people have never seen before
 
@@ -20,21 +20,21 @@ Would you have imagined a playable electric guitar built from a gyroscope sensor
 
 <table>
 <tr>
-<td><a href="https://www.prajvalarora.com/axis"><img src="assets/4-proj1.svg" alt="AXIS"></a></td>
-<td><a href="https://www.prajvalarora.com/get-it-done"><img src="assets/5-proj2.svg" alt="Get Done"></a></td>
-<td><a href="https://github.com/RoboX2020/Air-Guitar"><img src="assets/6-proj3.svg" alt="Air-Guitar"></a></td>
+<td><a href="https://www.prajvalarora.com/axis"><img src="assets/12-proj1.svg" alt="AXIS"></a></td>
+<td><a href="https://www.prajvalarora.com/get-it-done"><img src="assets/13-proj2.svg" alt="Get Done"></a></td>
+<td><a href="https://github.com/RoboX2020/Air-Guitar"><img src="assets/14-proj3.svg" alt="Air-Guitar"></a></td>
 </tr>
 </table>
 
 More at [prajvalarora.com](https://www.prajvalarora.com).
 
-<img src="assets/2-divider.svg" width="100%" alt="">
+<img src="assets/10-divider.svg" width="100%" alt="">
 
 ## toolbox
 
-<img src="assets/3-skills.svg" width="100%" alt="Isaac Sim, SolidWorks, Fusion 360, PLC, Arduino Opta, UR and Dobot arms, Unitree RL, Python and C++">
+<img src="assets/11-skills.svg" width="100%" alt="Isaac Sim, SolidWorks, Fusion 360, PLC, Arduino Opta, UR and Dobot arms, Unitree RL, Python and C++">
 
-<img src="assets/2-divider.svg" width="100%" alt="">
+<img src="assets/10-divider.svg" width="100%" alt="">
 
 ## numbers
 
@@ -54,4 +54,4 @@ Every pixel in the banner above is a separate SVG square with its own random fad
 
 </details>
 
-<img src="assets/8-footer.svg" width="100%" alt="pixel equalizer">
+<img src="assets/16-footer.svg" width="100%" alt="pixel equalizer">
